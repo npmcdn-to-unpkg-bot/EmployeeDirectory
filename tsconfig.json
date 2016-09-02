@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "noImplicitAny": false,
+      "noEmitOnError": false,
+      "sourceMap": true,
+      "target": "es5"
+  },
+  "compileOnSave": true
+}
